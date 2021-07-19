@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddharth Singh</h1>
 <h2 align="center">aka. <strong>s59_60r</strong> </h2>
-<h3 align="center">Computer Science Undergrad | Competitive Programmer | Jr. Data Science</h3>
+<h3 align="center">Computer Science Undergrad | Competitive Programmer | Software Developer </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-i-d-d-i-s" alt="s-i-d-d-i-s" /> </p>
@@ -13,7 +13,7 @@
   <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Java-lightblue.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
   <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Javascript-lightblue.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
   <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Kotlin-lightblue.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
-  <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Angular-lightblue.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
+  <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Flutter-lightblue.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
 </p>
 
 - 🔭 I’m currently working on **CNN and ML, Android, Web Backend, Discord Bots**
