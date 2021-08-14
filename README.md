@@ -45,7 +45,7 @@
 ## Academics, Freelance and Internships
 
 <span><img src="https://img.shields.io/badge/BIT_Mesra-BTECH_CSE-orange?style=for-the-badge"></span>
-<span><img src="https://img.shields.io/badge/GPA-8.1/10-rgb(0%2C0%2C255)?style=for-the-badge"></span>
+<span><img src="https://img.shields.io/badge/GPA-8.2/10-rgb(0%2C0%2C255)?style=for-the-badge"></span>
 <span><img src="https://img.shields.io/badge/Rank_Opener_2018-cyan?style=for-the-badge"></span>
 <span><img src="https://img.shields.io/badge/Recieved_Scholarship-pink?style=for-the-badge"></span>
 
