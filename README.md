@@ -16,20 +16,19 @@
   <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Flutter-lightblue.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
 </p>
 
-- 🔭 I’m currently working on **CNN and ML, Android, Web Backend, Discord Bots**
+- 🔭 I’m currently working on **Backend, Software Developement, GUI, Discord Bots**
 
-- 📝 I occasionally share my views on [My Blog](http://siddharthsingh.uno/blog)
+- 📝 I occasionally share my views on [My Blog](https://siddharthsingh.uno/#/blog)
 
-- 💬 Ask me about **Python, Django, C++, Kotlin, Algorithms**
+- 💬 Ask me about **Python, Django, C++, Java, Algorithms**
 
 - ⚡ I have a passion for Inventions, I love to create apps based on fresh ideas from thin air
 
 - 👨‍💼I am the founder and owner of
-  - [LCPredict](http://lcpredict.herokuapp.com/)
   - [ContestReminder](https://discord.gg/yWdAV7nFGd)
   - [Leetcode2IDE](https://s-i-d-d-i-s.github.io/Leetcode2IDE/)
   - [Sparky - The Codechef Bot](https://discord.gg/7vzwAye2kN)
-
+  - [Macro+ Plus](https://macro-plus.herokuapp.com/)
 <hr>
 
 #### Not very active in Competitive Programming anymore (still very competitive 😉 ) , but if i get time or feeling, i may do some again 😄
@@ -62,6 +61,8 @@
 
 ## Reach Me Through
 [![ ](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ](https://pastebin.com/raw/E89k6EQF)
-<!-- [![ ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.#.com) -->
+[![ ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/siddharthsingh3099/)
+[![ ](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:siddharthsingh3099@gmail.com)
+
 
 
