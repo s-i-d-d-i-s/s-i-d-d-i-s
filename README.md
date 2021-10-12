@@ -38,7 +38,7 @@
 <a href="https://codechef.com/users/s59_60r"><img src="https://img.shields.io/badge/Codechef-2122-yellow?style=for-the-badge"></a>
 <a href="https://codeforces.com/profile/s59_60r"><img src="https://img.shields.io/badge/Codeforces-1796-rgb(0%2C0%2C255)?style=for-the-badge"></a>
 <a href="https://atcoder.jp/users/s59_60r"><img src="https://img.shields.io/badge/Atcoder-1300-rgb(0%2C192%2C192)?style=for-the-badge"></a>
-<a href="https://leetcode.com/xmi/"><img src="https://img.shields.io/badge/Leetcode-2015-ff69b4?style=for-the-badge"></a>
+<a href="https://leetcode.com/s59_60r/"><img src="https://img.shields.io/badge/Leetcode-2015-ff69b4?style=for-the-badge"></a>
 <a href="https://www.hackerrank.com/s5960r"><img src="https://img.shields.io/badge/Hackerrank-1835-green?style=for-the-badge"></a>
 
 ## Academics, Freelance and Internships
