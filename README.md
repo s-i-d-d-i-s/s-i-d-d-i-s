@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **Backend, Software Developement, GUI, Discord Bots**
 
-- 📝 I occasionally share my views on [My Blog](https://siddharthsingh.uno/#/blog)
+- 📝 I occasionally share my views on [My Blog](https://siddharthsingh.uno/blog)
 
 - 💬 Ask me about **Python, Django, C++, Java, Algorithms**
 
