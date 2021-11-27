@@ -16,19 +16,20 @@
   <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Flutter-lightblue.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
 </p>
 
-- 🔭 I’m currently working on **Backend, Software Developement, GUI, Discord Bots**
+- 🔭 I’m currently working on **Full Stack Software Developement, GUI, Discord Bots**
 
 - 📝 I occasionally share my views on [My Blog](https://siddharthsingh.uno/blog)
 
-- 💬 Ask me about **Python, Django, C++, Java, Algorithms**
+- 💬 Ask me about **Spring, Angular, Python, C++, Java, Algorithms**
 
-- ⚡ I have a passion for Inventions, I love to create apps based on fresh ideas from thin air
+- ⚡ I have a passion for Inventions, I love to create apps based on fresh ideas.
 
 - 👨‍💼I am the founder and owner of
   - [ContestReminder](https://discord.gg/yWdAV7nFGd)
   - [Leetcode2IDE](https://s-i-d-d-i-s.github.io/Leetcode2IDE/)
   - [Sparky - The Codechef Bot](https://discord.gg/7vzwAye2kN)
   - [Macro+ Plus](https://macro-plus.herokuapp.com/)
+  - [GradKon](https://gradkon.netlify.com)
 <hr>
 
 #### Not very active in Competitive Programming anymore (still very competitive 😉 ) , but if i get time or feeling, i may do some again 😄
