@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **Full Stack Software Developement, GUI, Discord Bots**
 
-- 📝 I occasionally share my views on [My Blog](https://siddharthsingh.uno/blog)
+- 📝 I occasionally share my views on [My Blog](https://imsid.in/blog)
 
 - 💬 Ask me about **Spring, Angular, Python, C++, Java, Algorithms**
 
