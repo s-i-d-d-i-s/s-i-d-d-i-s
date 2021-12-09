@@ -24,7 +24,8 @@
 
 - ⚡ I have a passion for Inventions, I love to create apps based on fresh ideas.
 
-- 👨‍💼I am the founder and owner of
+- 👨‍💼I am the inventor of
+  - [CodeX: Editor](https://codex-editor.netlify.app)
   - [ContestReminder](https://discord.gg/yWdAV7nFGd)
   - [Leetcode2IDE](https://s-i-d-d-i-s.github.io/Leetcode2IDE/)
   - [Sparky - The Codechef Bot](https://discord.gg/7vzwAye2kN)
@@ -41,6 +42,8 @@
 <a href="https://atcoder.jp/users/s59_60r"><img src="https://img.shields.io/badge/Atcoder-1300-rgb(0%2C192%2C192)?style=for-the-badge"></a>
 <a href="https://leetcode.com/s59_60r/"><img src="https://img.shields.io/badge/Leetcode-2015-ff69b4?style=for-the-badge"></a>
 <a href="https://www.hackerrank.com/s5960r"><img src="https://img.shields.io/badge/Hackerrank-1835-green?style=for-the-badge"></a>
+
+
 
 ## Academics, Freelance and Internships
 
