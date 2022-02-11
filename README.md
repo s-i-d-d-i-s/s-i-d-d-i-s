@@ -65,7 +65,7 @@
 
 ## Reach Me Through
 [![ ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/siddharthsingh3099/)
-[![ ](https://img.shields.io/badge/Contact-0077B5?style=for-the-badge&logo=google&logoColor=white) ](https://imsid.in/contact)
+[![ ](https://img.shields.io/badge/Contact-0077B5?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:contact@imsid.in)
 
 
 
