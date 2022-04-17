@@ -27,10 +27,9 @@
 - 👨‍💼I am the inventor of
   - [CodeX: Editor](https://codex-editor.netlify.app)
   - [ContestReminder](https://discord.gg/yWdAV7nFGd)
-  - [Leetcode2IDE](https://s-i-d-d-i-s.github.io/Leetcode2IDE/)
+  - [Leetcode2IDE](https://leetcode2ide.netlify.app/)
   - [Sparky - The Codechef Bot](https://discord.gg/7vzwAye2kN)
   - [Macro+ Plus](https://macro-plus.herokuapp.com/)
-  - [GradKon](https://gradkon.netlify.com)
 <hr>
 
 #### Not very active in Competitive Programming anymore (still very competitive 😉 ) , but if i get time or feeling, i may do some again 😄
