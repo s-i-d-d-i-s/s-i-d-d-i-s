@@ -51,6 +51,9 @@
 
 <hr>
 
+[![ ](https://img.shields.io/badge/Morgan_Stanley-Jan_2022-%232C3454.svg?&style=for-the-badge&logo=Morgan_Stanley&logoColor=Blue)](https://www.morganstanley.com/)
+- Currently Involved.
+
 [![ ](https://img.shields.io/badge/HackerEarth-Apr_2021-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://research.samsung.com/sri-b)
 - I did some more freelancing at hackerearth, where i created coding problems for Hackerearth Library.
 
