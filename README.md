@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Siddharth Singh</h1>
 <h2 align="center">aka. <strong>s59_60r</strong> </h2>
-<h3 align="center">Computer Science Undergrad | Competitive Programmer | Software Developer </h3>
+<h3 align="center">Upcoming Googler | Competitive Programmer | Software Developer </h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s-i-d-d-i-s" alt="s-i-d-d-i-s" /> </p>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<p align="right">
+<img src='https://c.tenor.com/Pb_fcyVGSUYAAAAC/google-logo.gif' width='300'>
+</p>
 
 <p align="left">
   <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/C++-lightblue.svg?style=for-the-badge&logo=cplusplus" alt="s-i-d-d-i-s" /> </a>
