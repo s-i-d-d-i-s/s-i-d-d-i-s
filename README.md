@@ -1,26 +1,27 @@
-<h1 align="center">Hi 👋, I'm Siddharth Singh</h1>
-<h2 align="center">aka. <strong>s59_60r</strong> </h2>
-<h3 align="center">Upcoming Googler | Competitive Programmer | Software Developer </h3>
+<h1 align="center">Hi 👋, I'm Siddharth Singh (s59_60r)</h1>
+<h3 align="center">Upcoming Googler | Software Engineer | Competitive Programmer </h3>
 
-<p align="right">
+<p align="center">
 <img src='https://c.tenor.com/Pb_fcyVGSUYAAAAC/google-logo.gif' width='300'>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/C++-lightblue.svg?style=for-the-badge&logo=cplusplus" alt="s-i-d-d-i-s" /> </a>
   <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/C-lightblue.svg?style=for-the-badge&logo=cplusplus" alt="s-i-d-d-i-s" /> </a>
   <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Python-lightblue.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
   <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Java-lightblue.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
   <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Javascript-lightblue.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
-  <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Kotlin-lightblue.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
-  <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Flutter-lightblue.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
+  <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/TypeScript-lightblue.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
+  <a href="https://github.com/s-i-d-d-i-s"> <img src="https://img.shields.io/badge/Angular-lightblue.svg?style=for-the-badge" alt="s-i-d-d-i-s" /> </a>
 </p>
 
-- 🔭 I’m currently working on **Full Stack Software Developement, GUI, Discord Bots**
 
-- 💬 Ask me about **Spring, Angular, Python, C++, Java, Algorithms**
+<hr>
+- 🔭 I’m currently working on **Full Stack Software Developement, CLI, Cloud Applications**
 
-- ⚡ I have a passion for Inventions, I love to create apps based on fresh ideas.
+- 💬 Ask me about **C++, Java, Angular, Python, Spring, Algorithms**
+
+- ⚡ I have a passion for inventions, I love to create apps based on fresh ideas.
 
 - 👨‍💼I am the inventor of
   - [CodeX: Editor](https://codex-editor.netlify.app)
@@ -28,6 +29,7 @@
   - [Leetcode2IDE](https://leetcode2ide.netlify.app/)
   - [Sparky - The Codechef Bot](https://discord.gg/7vzwAye2kN)
   - [Macro+ Plus](https://macro-plus.herokuapp.com/)
+ 
 <hr>
 
 #### Not very active in Competitive Programming anymore (still very competitive 😉 ) , but if i get time or feeling, i may do some again 😄
@@ -66,6 +68,5 @@
 ## Reach Me Through
 [![ ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/siddharthsingh3099/)
 [![ ](https://img.shields.io/badge/Contact-0077B5?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:contact@imsid.in)
-
 
 
