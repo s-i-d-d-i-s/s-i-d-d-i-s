@@ -30,6 +30,11 @@
   - [Leetcode2IDE](https://leetcode2ide.netlify.app/)
   - [Sparky - The Codechef Bot](https://discord.gg/7vzwAye2kN)
   - [Macro+ Plus](https://macro-plus.herokuapp.com/)
+
+- ✈️ I've been to
+  - India
+  - United Arab Emirates
+  - Germany
  
 <hr>
 
