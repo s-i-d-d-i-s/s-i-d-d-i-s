@@ -24,12 +24,10 @@
 
 - ⚡ I have a passion for inventions, I love to create apps based on fresh ideas.
 
-- 👨‍💼I am the inventor of
+- 👨‍💼I am the Founder of
+  - [NoPayCode](https://nopaycode.netlify.com/)
   - [CodeX: Editor](https://codex-editor.netlify.app)
-  - [ContestReminder](https://discord.gg/yWdAV7nFGd)
   - [Leetcode2IDE](https://leetcode2ide.netlify.app/)
-  - [Sparky - The Codechef Bot](https://discord.gg/7vzwAye2kN)
-  - [Macro+ Plus](https://macro-plus.herokuapp.com/)
 
 - ✈️ I've been to
   - India
