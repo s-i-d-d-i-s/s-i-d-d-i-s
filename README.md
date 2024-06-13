@@ -28,7 +28,7 @@
 - 👨‍💼I am the Founder of
   - [Forge](https://forge-finance.netlify.app/)
   - [Gliter](https://gliter.in/)
-  - [NoPayCode](https://nopaycode.netlify.com/)
+  - [NoPayCode](https://nopaycode.netlify.app/)
   - [CodeX: Editor](https://codex-editor.netlify.app)
   - [Leetcode2IDE](https://leetcode2ide.netlify.app/)
  
